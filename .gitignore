@@ -1,0 +1,30 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# Kaggle-provided files and captured raw replays are intentionally not published.
+competition_files/
+replays/
+*.zip
+*.tar.gz
+
+# Large generated artifacts. Keep only compact, reviewed rank-1 summaries.
+/results/
+evaluation/results/*
+!evaluation/results/exp093_rank1_replay_audit/
+evaluation/results/exp093_rank1_replay_audit/*
+!evaluation/results/exp093_rank1_replay_audit/report.md
+!evaluation/results/exp093_rank1_replay_audit/summary.json
+!evaluation/results/exp093_rank1_replay_audit/episodes.csv
+!evaluation/results/exp094_rank1_strategy/
+!evaluation/results/exp094_rank1_strategy/strategy.json
+
+# Local match experiments contain multi-gigabyte replay outputs. The experiment
+# registry is kept separately; only the authored rank-1 plan is published here.
+experiments/*
+!experiments/rank1_reconstruction_plan.md
+
+# Submission bundles and duplicated exports can be rebuilt from source.
+submissions/
+exports/

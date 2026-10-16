@@ -1,0 +1,2195 @@
+{
+  "episodes": [
+    {
+      "episode_id": 108381189,
+      "day6_shops": {
+        "FARMERS_MARKET": 1,
+        "PIZZA_SHOP": 1
+      },
+      "day6_branch": "BALANCED",
+      "day6_animals_added": {
+        "COW": 4,
+        "GOOSE": 2
+      },
+      "peak_animals": {
+        "COW": 7,
+        "SHEEP": 5,
+        "GOOSE": 2
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 156,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 16,
+          "step": 385,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 16,
+          "step": 386,
+          "animals": {
+            "SHEEP": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108385318,
+      "day6_shops": {
+        "BAKERY": 1,
+        "PIZZA_SHOP": 1
+      },
+      "day6_branch": "BALANCED",
+      "day6_animals_added": {
+        "COW": 4,
+        "GOOSE": 2
+      },
+      "peak_animals": {
+        "COW": 12,
+        "SHEEP": 3,
+        "GOOSE": 2
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 156,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 224,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 227,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 12,
+          "step": 290,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 12,
+          "step": 296,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 15,
+          "step": 362,
+          "animals": {
+            "COW": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108390115,
+      "day6_shops": {
+        "FARMERS_MARKET": 1,
+        "SMOOTHIE_SHOP": 1
+      },
+      "day6_branch": "BALANCED",
+      "day6_animals_added": {
+        "COW": 4,
+        "GOOSE": 2
+      },
+      "peak_animals": {
+        "COW": 12,
+        "SHEEP": 3,
+        "GOOSE": 2
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 156,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 8,
+          "step": 200,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 225,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 228,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 12,
+          "step": 290,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 14,
+          "step": 338,
+          "animals": {
+            "COW": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108395112,
+      "day6_shops": {
+        "SMOOTHIE_SHOP": 1,
+        "FARMERS_MARKET": 1
+      },
+      "day6_branch": "BALANCED",
+      "day6_animals_added": {
+        "COW": 4,
+        "GOOSE": 2
+      },
+      "peak_animals": {
+        "COW": 10,
+        "SHEEP": 3,
+        "GOOSE": 2
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 156,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 8,
+          "step": 200,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 225,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 241,
+          "animals": {
+            "COW": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108399446,
+      "day6_shops": {
+        "PIZZA_SHOP": 1,
+        "SMOOTHIE_SHOP": 1
+      },
+      "day6_branch": "COW",
+      "day6_animals_added": {
+        "COW": 6
+      },
+      "peak_animals": {
+        "COW": 11,
+        "SHEEP": 3,
+        "GOOSE": 0
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 155,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 157,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 161,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 225,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 12,
+          "step": 290,
+          "animals": {
+            "COW": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108404344,
+      "day6_shops": {
+        "PET_CAFE": 1,
+        "BRUNCH_SPOT": 1
+      },
+      "day6_branch": "GOOSE",
+      "day6_animals_added": {
+        "COW": 2,
+        "GOOSE": 4
+      },
+      "peak_animals": {
+        "COW": 7,
+        "SHEEP": 3,
+        "GOOSE": 4
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 155,
+          "animals": {
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 157,
+          "animals": {
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 161,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 225,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 18,
+          "step": 434,
+          "animals": {
+            "COW": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108409365,
+      "day6_shops": {
+        "YARN_STORE": 2
+      },
+      "day6_branch": "SHEEP",
+      "day6_animals_added": {
+        "COW": 2,
+        "SHEEP": 5
+      },
+      "peak_animals": {
+        "SHEEP": 17,
+        "COW": 5,
+        "GOOSE": 0
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 155,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 157,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 7,
+          "step": 181,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 8,
+          "step": 200,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 226,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 228,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 230,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 251,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 253,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 255,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 11,
+          "step": 275,
+          "animals": {
+            "SHEEP": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108414382,
+      "day6_shops": {
+        "PIZZA_SHOP": 1,
+        "YARN_STORE": 1
+      },
+      "day6_branch": "SHEEP",
+      "day6_animals_added": {
+        "COW": 2,
+        "SHEEP": 5
+      },
+      "peak_animals": {
+        "SHEEP": 17,
+        "COW": 6,
+        "GOOSE": 0
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 155,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 157,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 8,
+          "step": 200,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 8,
+          "step": 205,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 225,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 228,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 230,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 251,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 253,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 255,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 11,
+          "step": 273,
+          "animals": {
+            "SHEEP": 1
+          }
+        },
+        {
+          "day": 11,
+          "step": 275,
+          "animals": {
+            "SHEEP": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108419608,
+      "day6_shops": {
+        "BAKERY": 1,
+        "ICE_CREAM_SHOP": 1
+      },
+      "day6_branch": "BALANCED",
+      "day6_animals_added": {
+        "COW": 4,
+        "GOOSE": 2
+      },
+      "peak_animals": {
+        "COW": 9,
+        "SHEEP": 3,
+        "GOOSE": 2
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 156,
+          "animals": {
+            "COW": 1,
+            "GOOSE": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 8,
+          "step": 200,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 225,
+          "animals": {
+            "COW": 1
+          }
+        }
+      ]
+    },
+    {
+      "episode_id": 108425363,
+      "day6_shops": {
+        "PIZZA_SHOP": 2
+      },
+      "day6_branch": "COW",
+      "day6_animals_added": {
+        "COW": 6
+      },
+      "peak_animals": {
+        "COW": 14,
+        "SHEEP": 3,
+        "GOOSE": 0
+      },
+      "purchase_events": [
+        {
+          "day": 0,
+          "step": 1,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 0,
+          "step": 2,
+          "animals": {
+            "COW": 1,
+            "SHEEP": 3
+          }
+        },
+        {
+          "day": 6,
+          "step": 151,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 153,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 155,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 157,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 159,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 6,
+          "step": 161,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 8,
+          "step": 205,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 217,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 224,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 9,
+          "step": 227,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 10,
+          "step": 251,
+          "animals": {
+            "COW": 1
+          }
+        },
+        {
+          "day": 12,
+          "step": 290,
+          "animals": {
+            "COW": 1
+          }
+        }
+      ]
+    }
+  ],
+  "plant_by_day": [
+    {
+      "day": 0,
+      "crop": "MELON",
+      "count": 60
+    },
+    {
+      "day": 0,
+      "crop": "WHEAT",
+      "count": 96
+    },
+    {
+      "day": 1,
+      "crop": "MELON",
+      "count": 39
+    },
+    {
+      "day": 1,
+      "crop": "WHEAT",
+      "count": 2
+    },
+    {
+      "day": 2,
+      "crop": "MELON",
+      "count": 19
+    },
+    {
+      "day": 2,
+      "crop": "STRAWBERRY",
+      "count": 20
+    },
+    {
+      "day": 3,
+      "crop": "MELON",
+      "count": 1
+    },
+    {
+      "day": 3,
+      "crop": "STRAWBERRY",
+      "count": 28
+    },
+    {
+      "day": 4,
+      "crop": "STRAWBERRY",
+      "count": 29
+    },
+    {
+      "day": 5,
+      "crop": "STRAWBERRY",
+      "count": 2
+    },
+    {
+      "day": 5,
+      "crop": "WHEAT",
+      "count": 1
+    },
+    {
+      "day": 6,
+      "crop": "STRAWBERRY",
+      "count": 98
+    },
+    {
+      "day": 6,
+      "crop": "WHEAT",
+      "count": 29
+    },
+    {
+      "day": 7,
+      "crop": "STRAWBERRY",
+      "count": 30
+    },
+    {
+      "day": 7,
+      "crop": "TOMATO",
+      "count": 5
+    },
+    {
+      "day": 7,
+      "crop": "WHEAT",
+      "count": 12
+    },
+    {
+      "day": 8,
+      "crop": "STRAWBERRY",
+      "count": 3
+    },
+    {
+      "day": 8,
+      "crop": "TOMATO",
+      "count": 4
+    },
+    {
+      "day": 8,
+      "crop": "WHEAT",
+      "count": 18
+    },
+    {
+      "day": 9,
+      "crop": "STRAWBERRY",
+      "count": 3
+    },
+    {
+      "day": 9,
+      "crop": "TOMATO",
+      "count": 4
+    },
+    {
+      "day": 9,
+      "crop": "WHEAT",
+      "count": 142
+    },
+    {
+      "day": 10,
+      "crop": "STRAWBERRY",
+      "count": 21
+    },
+    {
+      "day": 10,
+      "crop": "WHEAT",
+      "count": 86
+    },
+    {
+      "day": 11,
+      "crop": "CARROT",
+      "count": 3
+    },
+    {
+      "day": 11,
+      "crop": "STRAWBERRY",
+      "count": 12
+    },
+    {
+      "day": 11,
+      "crop": "TOMATO",
+      "count": 1
+    },
+    {
+      "day": 11,
+      "crop": "WHEAT",
+      "count": 96
+    },
+    {
+      "day": 12,
+      "crop": "CARROT",
+      "count": 1
+    },
+    {
+      "day": 12,
+      "crop": "STRAWBERRY",
+      "count": 12
+    },
+    {
+      "day": 12,
+      "crop": "TOMATO",
+      "count": 1
+    },
+    {
+      "day": 12,
+      "crop": "WHEAT",
+      "count": 62
+    },
+    {
+      "day": 13,
+      "crop": "CARROT",
+      "count": 6
+    },
+    {
+      "day": 13,
+      "crop": "STRAWBERRY",
+      "count": 10
+    },
+    {
+      "day": 13,
+      "crop": "WHEAT",
+      "count": 121
+    },
+    {
+      "day": 14,
+      "crop": "CARROT",
+      "count": 4
+    },
+    {
+      "day": 14,
+      "crop": "TOMATO",
+      "count": 2
+    },
+    {
+      "day": 14,
+      "crop": "WHEAT",
+      "count": 76
+    },
+    {
+      "day": 15,
+      "crop": "CARROT",
+      "count": 5
+    },
+    {
+      "day": 15,
+      "crop": "STRAWBERRY",
+      "count": 6
+    },
+    {
+      "day": 15,
+      "crop": "TOMATO",
+      "count": 9
+    },
+    {
+      "day": 15,
+      "crop": "WHEAT",
+      "count": 71
+    },
+    {
+      "day": 16,
+      "crop": "CARROT",
+      "count": 3
+    },
+    {
+      "day": 16,
+      "crop": "STRAWBERRY",
+      "count": 5
+    },
+    {
+      "day": 16,
+      "crop": "TOMATO",
+      "count": 9
+    },
+    {
+      "day": 16,
+      "crop": "WHEAT",
+      "count": 70
+    },
+    {
+      "day": 17,
+      "crop": "CARROT",
+      "count": 11
+    },
+    {
+      "day": 17,
+      "crop": "STRAWBERRY",
+      "count": 4
+    },
+    {
+      "day": 17,
+      "crop": "TOMATO",
+      "count": 16
+    },
+    {
+      "day": 17,
+      "crop": "WHEAT",
+      "count": 70
+    },
+    {
+      "day": 18,
+      "crop": "CARROT",
+      "count": 11
+    },
+    {
+      "day": 18,
+      "crop": "TOMATO",
+      "count": 31
+    },
+    {
+      "day": 18,
+      "crop": "WHEAT",
+      "count": 45
+    },
+    {
+      "day": 19,
+      "crop": "CARROT",
+      "count": 16
+    },
+    {
+      "day": 19,
+      "crop": "STRAWBERRY",
+      "count": 1
+    },
+    {
+      "day": 19,
+      "crop": "TOMATO",
+      "count": 3
+    },
+    {
+      "day": 19,
+      "crop": "WHEAT",
+      "count": 85
+    },
+    {
+      "day": 20,
+      "crop": "CARROT",
+      "count": 19
+    },
+    {
+      "day": 20,
+      "crop": "STRAWBERRY",
+      "count": 1
+    },
+    {
+      "day": 20,
+      "crop": "WHEAT",
+      "count": 81
+    },
+    {
+      "day": 21,
+      "crop": "CARROT",
+      "count": 19
+    },
+    {
+      "day": 21,
+      "crop": "WHEAT",
+      "count": 79
+    },
+    {
+      "day": 22,
+      "crop": "CARROT",
+      "count": 13
+    },
+    {
+      "day": 22,
+      "crop": "WHEAT",
+      "count": 121
+    },
+    {
+      "day": 23,
+      "crop": "CARROT",
+      "count": 38
+    },
+    {
+      "day": 23,
+      "crop": "STRAWBERRY",
+      "count": 1
+    },
+    {
+      "day": 23,
+      "crop": "WHEAT",
+      "count": 117
+    },
+    {
+      "day": 24,
+      "crop": "CARROT",
+      "count": 31
+    },
+    {
+      "day": 24,
+      "crop": "WHEAT",
+      "count": 95
+    },
+    {
+      "day": 25,
+      "crop": "CARROT",
+      "count": 21
+    },
+    {
+      "day": 25,
+      "crop": "WHEAT",
+      "count": 117
+    },
+    {
+      "day": 26,
+      "crop": "CARROT",
+      "count": 49
+    },
+    {
+      "day": 26,
+      "crop": "WHEAT",
+      "count": 95
+    },
+    {
+      "day": 27,
+      "crop": "CARROT",
+      "count": 12
+    },
+    {
+      "day": 27,
+      "crop": "WHEAT",
+      "count": 110
+    },
+    {
+      "day": 28,
+      "crop": "WHEAT",
+      "count": 17
+    }
+  ],
+  "fertilize_by_day": [
+    {
+      "day": 11,
+      "crop": "STRAWBERRY",
+      "count": 11
+    },
+    {
+      "day": 12,
+      "crop": "STRAWBERRY",
+      "count": 39
+    },
+    {
+      "day": 12,
+      "crop": "WHEAT",
+      "count": 2
+    },
+    {
+      "day": 13,
+      "crop": "STRAWBERRY",
+      "count": 21
+    },
+    {
+      "day": 13,
+      "crop": "WHEAT",
+      "count": 21
+    },
+    {
+      "day": 14,
+      "crop": "STRAWBERRY",
+      "count": 31
+    },
+    {
+      "day": 14,
+      "crop": "TOMATO",
+      "count": 4
+    },
+    {
+      "day": 14,
+      "crop": "WHEAT",
+      "count": 24
+    },
+    {
+      "day": 15,
+      "crop": "STRAWBERRY",
+      "count": 75
+    },
+    {
+      "day": 15,
+      "crop": "TOMATO",
+      "count": 4
+    },
+    {
+      "day": 15,
+      "crop": "WHEAT",
+      "count": 29
+    },
+    {
+      "day": 16,
+      "crop": "STRAWBERRY",
+      "count": 42
+    },
+    {
+      "day": 16,
+      "crop": "TOMATO",
+      "count": 3
+    },
+    {
+      "day": 16,
+      "crop": "WHEAT",
+      "count": 30
+    },
+    {
+      "day": 17,
+      "crop": "STRAWBERRY",
+      "count": 76
+    },
+    {
+      "day": 17,
+      "crop": "TOMATO",
+      "count": 5
+    },
+    {
+      "day": 17,
+      "crop": "WHEAT",
+      "count": 28
+    },
+    {
+      "day": 18,
+      "crop": "STRAWBERRY",
+      "count": 45
+    },
+    {
+      "day": 18,
+      "crop": "TOMATO",
+      "count": 2
+    },
+    {
+      "day": 18,
+      "crop": "WHEAT",
+      "count": 37
+    },
+    {
+      "day": 19,
+      "crop": "STRAWBERRY",
+      "count": 65
+    },
+    {
+      "day": 19,
+      "crop": "TOMATO",
+      "count": 4
+    },
+    {
+      "day": 19,
+      "crop": "WHEAT",
+      "count": 40
+    },
+    {
+      "day": 20,
+      "crop": "STRAWBERRY",
+      "count": 45
+    },
+    {
+      "day": 20,
+      "crop": "TOMATO",
+      "count": 2
+    },
+    {
+      "day": 20,
+      "crop": "WHEAT",
+      "count": 34
+    },
+    {
+      "day": 21,
+      "crop": "CARROT",
+      "count": 3
+    },
+    {
+      "day": 21,
+      "crop": "STRAWBERRY",
+      "count": 61
+    },
+    {
+      "day": 21,
+      "crop": "TOMATO",
+      "count": 9
+    },
+    {
+      "day": 21,
+      "crop": "WHEAT",
+      "count": 37
+    },
+    {
+      "day": 22,
+      "crop": "CARROT",
+      "count": 1
+    },
+    {
+      "day": 22,
+      "crop": "STRAWBERRY",
+      "count": 20
+    },
+    {
+      "day": 22,
+      "crop": "TOMATO",
+      "count": 9
+    },
+    {
+      "day": 22,
+      "crop": "WHEAT",
+      "count": 45
+    },
+    {
+      "day": 23,
+      "crop": "CARROT",
+      "count": 1
+    },
+    {
+      "day": 23,
+      "crop": "STRAWBERRY",
+      "count": 30
+    },
+    {
+      "day": 23,
+      "crop": "TOMATO",
+      "count": 25
+    },
+    {
+      "day": 23,
+      "crop": "WHEAT",
+      "count": 42
+    },
+    {
+      "day": 24,
+      "crop": "CARROT",
+      "count": 1
+    },
+    {
+      "day": 24,
+      "crop": "STRAWBERRY",
+      "count": 21
+    },
+    {
+      "day": 24,
+      "crop": "TOMATO",
+      "count": 17
+    },
+    {
+      "day": 24,
+      "crop": "WHEAT",
+      "count": 53
+    },
+    {
+      "day": 25,
+      "crop": "CARROT",
+      "count": 6
+    },
+    {
+      "day": 25,
+      "crop": "STRAWBERRY",
+      "count": 24
+    },
+    {
+      "day": 25,
+      "crop": "TOMATO",
+      "count": 16
+    },
+    {
+      "day": 25,
+      "crop": "WHEAT",
+      "count": 62
+    },
+    {
+      "day": 26,
+      "crop": "CARROT",
+      "count": 8
+    },
+    {
+      "day": 26,
+      "crop": "STRAWBERRY",
+      "count": 15
+    },
+    {
+      "day": 26,
+      "crop": "TOMATO",
+      "count": 28
+    },
+    {
+      "day": 26,
+      "crop": "WHEAT",
+      "count": 56
+    },
+    {
+      "day": 27,
+      "crop": "CARROT",
+      "count": 9
+    },
+    {
+      "day": 27,
+      "crop": "STRAWBERRY",
+      "count": 10
+    },
+    {
+      "day": 27,
+      "crop": "TOMATO",
+      "count": 12
+    },
+    {
+      "day": 27,
+      "crop": "WHEAT",
+      "count": 85
+    },
+    {
+      "day": 28,
+      "crop": "CARROT",
+      "count": 4
+    },
+    {
+      "day": 28,
+      "crop": "STRAWBERRY",
+      "count": 13
+    },
+    {
+      "day": 28,
+      "crop": "TOMATO",
+      "count": 10
+    },
+    {
+      "day": 28,
+      "crop": "WHEAT",
+      "count": 54
+    },
+    {
+      "day": 29,
+      "crop": "STRAWBERRY",
+      "count": 1
+    }
+  ],
+  "animal_coordinate_templates": [
+    {
+      "x": 4,
+      "y": 0,
+      "animals": {
+        "SHEEP": 1
+      }
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "animals": {
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "animals": {
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "animals": {
+        "COW": 10
+      }
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "animals": {
+        "COW": 10
+      }
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "animals": {
+        "COW": 5,
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "animals": {
+        "SHEEP": 1
+      }
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "animals": {
+        "SHEEP": 1
+      }
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "animals": {
+        "SHEEP": 10
+      }
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "animals": {
+        "COW": 9,
+        "GOOSE": 1
+      }
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "animals": {
+        "COW": 7,
+        "GOOSE": 1,
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "animals": {
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "animals": {
+        "SHEEP": 10
+      }
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "animals": {
+        "SHEEP": 10
+      }
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "animals": {
+        "COW": 10
+      }
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "animals": {
+        "COW": 8,
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "animals": {
+        "GOOSE": 6,
+        "COW": 2,
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "animals": {
+        "GOOSE": 6,
+        "COW": 2,
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "animals": {
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "animals": {
+        "COW": 10
+      }
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "animals": {
+        "SHEEP": 2,
+        "COW": 8
+      }
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "animals": {
+        "SHEEP": 3,
+        "COW": 6
+      }
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "animals": {
+        "COW": 3,
+        "SHEEP": 2
+      }
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "animals": {
+        "COW": 3,
+        "SHEEP": 2
+      }
+    }
+  ],
+  "mature_worker_roles": [
+    {
+      "actor": 0,
+      "primary_role": "animal",
+      "primary_region": "NW",
+      "operations": {
+        "move": 2033,
+        "harvest": 362,
+        "place": 99,
+        "logistics": 198,
+        "animal": 1018,
+        "crop_renewal": 108,
+        "crop_care": 969,
+        "pass": 13
+      },
+      "regions": {
+        "NW": 4453,
+        "NE": 273,
+        "SW": 74
+      }
+    },
+    {
+      "actor": 1,
+      "primary_role": "animal",
+      "primary_region": "NE",
+      "operations": {
+        "animal": 1507,
+        "logistics": 205,
+        "move": 1826,
+        "place": 96,
+        "pass": 10,
+        "crop_care": 667,
+        "crop_renewal": 56,
+        "harvest": 233
+      },
+      "regions": {
+        "SW": 103,
+        "NE": 3835,
+        "NW": 658,
+        "SE": 4
+      }
+    },
+    {
+      "actor": 2,
+      "primary_role": "animal",
+      "primary_region": "SW",
+      "operations": {
+        "move": 1693,
+        "logistics": 204,
+        "animal": 1182,
+        "crop_renewal": 133,
+        "crop_care": 1172,
+        "pass": 26,
+        "harvest": 158,
+        "build_pasture": 3,
+        "place": 29
+      },
+      "regions": {
+        "NW": 58,
+        "SW": 3945,
+        "NE": 580,
+        "SE": 17
+      }
+    },
+    {
+      "actor": 3,
+      "primary_role": "animal",
+      "primary_region": "NE",
+      "operations": {
+        "move": 1980,
+        "logistics": 223,
+        "animal": 1009,
+        "harvest": 351,
+        "crop_care": 859,
+        "crop_renewal": 157,
+        "pass": 4,
+        "place": 17
+      },
+      "regions": {
+        "NE": 3501,
+        "SE": 336,
+        "SW": 658,
+        "NW": 105
+      }
+    },
+    {
+      "actor": 4,
+      "primary_role": "animal",
+      "primary_region": "NW",
+      "operations": {
+        "move": 2046,
+        "crop_care": 879,
+        "harvest": 289,
+        "logistics": 205,
+        "animal": 1004,
+        "crop_renewal": 81,
+        "place": 70,
+        "pass": 23,
+        "build_pasture": 3
+      },
+      "regions": {
+        "NW": 3688,
+        "SE": 52,
+        "NE": 713,
+        "SW": 147
+      }
+    },
+    {
+      "actor": 5,
+      "primary_role": "crop_care",
+      "primary_region": "NE",
+      "operations": {
+        "animal": 686,
+        "logistics": 183,
+        "move": 2173,
+        "crop_care": 811,
+        "crop_renewal": 206,
+        "harvest": 478,
+        "place": 44,
+        "pass": 18,
+        "build_pasture": 1
+      },
+      "regions": {
+        "SW": 21,
+        "NE": 3530,
+        "NW": 1045,
+        "SE": 4
+      }
+    },
+    {
+      "actor": 6,
+      "primary_role": "crop_care",
+      "primary_region": "SW",
+      "operations": {
+        "animal": 128,
+        "move": 1916,
+        "harvest": 651,
+        "logistics": 93,
+        "crop_care": 1214,
+        "crop_renewal": 481,
+        "place": 105,
+        "pass": 12
+      },
+      "regions": {
+        "SW": 3673,
+        "NW": 460,
+        "NE": 466,
+        "SE": 1
+      }
+    },
+    {
+      "actor": 7,
+      "primary_role": "crop_care",
+      "primary_region": "NE",
+      "operations": {
+        "crop_care": 1142,
+        "move": 2423,
+        "harvest": 532,
+        "logistics": 79,
+        "animal": 76,
+        "crop_renewal": 316,
+        "place": 19,
+        "pass": 10,
+        "build_pasture": 3
+      },
+      "regions": {
+        "SW": 1369,
+        "SE": 259,
+        "NE": 2486,
+        "NW": 486
+      }
+    },
+    {
+      "actor": 8,
+      "primary_role": "crop_care",
+      "primary_region": "NW",
+      "operations": {
+        "crop_care": 1153,
+        "move": 2350,
+        "harvest": 479,
+        "logistics": 100,
+        "animal": 127,
+        "crop_renewal": 349,
+        "pass": 36,
+        "place": 6
+      },
+      "regions": {
+        "SW": 304,
+        "NW": 3763,
+        "SE": 60,
+        "NE": 473
+      }
+    },
+    {
+      "actor": 9,
+      "primary_role": "crop_care",
+      "primary_region": "NW",
+      "operations": {
+        "move": 1981,
+        "crop_care": 1169,
+        "harvest": 387,
+        "crop_renewal": 206,
+        "logistics": 89,
+        "animal": 557,
+        "pass": 11
+      },
+      "regions": {
+        "NW": 3098,
+        "SW": 756,
+        "SE": 31,
+        "NE": 515
+      }
+    },
+    {
+      "actor": 10,
+      "primary_role": "crop_care",
+      "primary_region": "SW",
+      "operations": {
+        "move": 2010,
+        "crop_care": 1080,
+        "crop_renewal": 154,
+        "animal": 709,
+        "harvest": 311,
+        "logistics": 117,
+        "place": 2,
+        "pass": 15,
+        "build_pasture": 1
+      },
+      "regions": {
+        "SE": 32,
+        "NE": 694,
+        "SW": 2676,
+        "NW": 997
+      }
+    },
+    {
+      "actor": 11,
+      "primary_role": "crop_care",
+      "primary_region": "NE",
+      "operations": {
+        "move": 1927,
+        "crop_care": 731,
+        "harvest": 351,
+        "logistics": 149,
+        "animal": 589,
+        "place": 18,
+        "crop_renewal": 141,
+        "pass": 22,
+        "build_pasture": 10
+      },
+      "regions": {
+        "NW": 805,
+        "SE": 130,
+        "NE": 1992,
+        "SW": 1011
+      }
+    }
+  ]
+}
